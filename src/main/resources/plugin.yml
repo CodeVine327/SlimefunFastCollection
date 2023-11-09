@@ -1,0 +1,5 @@
+name: SlimefunFastCollection
+version: '${version}'
+main: io.github.codevine327.slimefunfastcollection.SlimefunFastCollection
+authors: [TheLittle_Yang]
+website: https://github.com/CodeVine327
